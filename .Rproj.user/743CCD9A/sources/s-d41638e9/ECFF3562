@@ -3,15 +3,15 @@
     "path": "/mnt/e/githubdoc/Rstudio/wsl_virtualmachine_os/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "3199028533",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1603608299310.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "17,4",
-        "scrollLine": "0",
+        "cursorPosition": "18,2",
+        "scrollLine": "1",
         "chunk_output_type": "console",
         "working_dir": "project"
     },
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603611070252,
+    "last_content_update": 1603628631027,
     "read_only": false,
     "read_only_alternatives": []
 }
