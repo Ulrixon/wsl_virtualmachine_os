@@ -1,0 +1,20 @@
+--- 
+title: "Windows WSL and Linux Virtual Machine 教學"
+author: "Ulrixon"
+date: "`r Sys.Date()`"
+output: pdf_document
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+biblio-style: apalike
+link-citations: yes
+description: linux
+site: bookdown::bookdown_site
+editor_options: 
+  chunk_output_type: console
+---
+
+# Prerequisites
+
+
