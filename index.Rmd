@@ -16,6 +16,7 @@ editor_options:
 ---
 
 # 為什麼要安裝Linux
+  因為
 # 小標題
 
 
